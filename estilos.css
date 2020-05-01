@@ -1,0 +1,45 @@
+#graella{
+	border: 1px solid black;
+}
+
+.tabla{
+	border:1px solid black;
+}
+
+.mitad1{
+	background-color: #ff6d6d;
+	height:60px;
+}
+
+.mitad2{
+	background-color: #fbff89;
+	height:60px;
+}
+
+.mitad3{
+	background-color: #009eff;
+	height:60px;
+}
+
+.mitad4{
+	background-color: #9dff89;
+	height:60px;
+}
+
+#fluido{
+	background-color: #e5e5e5;
+	height: 970px;
+}
+
+.flecha{
+	padding-top: 0%;
+	padding-bottom: 0%;
+	padding-right: 0%;
+	padding-left: 0%;
+}
+
+#tituloPrincipal{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+}
