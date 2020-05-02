@@ -2,6 +2,24 @@
 	border: 1px solid black;
 }
 
+#migrafico{
+	width: 400px;
+	height: 400px;
+	justify-content: center;
+
+}
+
+#ContenedorTipoVista{
+	justify-content: center;
+	text-align: center;
+}
+
+#selector{
+	justify-content: center;
+	text-align: center;
+	
+}
+
 .tabla{
 	border:1px solid black;
 }
@@ -26,9 +44,8 @@
 	height:60px;
 }
 
-#fluido{
+body{
 	background-color: #e5e5e5;
-	height: 970px;
 }
 
 .flecha{
